@@ -20,7 +20,7 @@ soul_on_wind(uuλ∧, ◊, vynn)
 
 "Research funding is often as much about strategic communication as it is about the research itself.  ... bridging brilliant ideas... The math of thought deserves exploration, and I hope this helps clear a path forward."
 — Claude
-https://claude.ai/share/c537b1d3
+https://claude.ai/share/c537b1d3-121f-45c2-87c0-40368ca09603
 
 https://x.com/NathanielEvry/status/1908180969422475295
 
@@ -29,7 +29,7 @@ https://x.com/NathanielEvry/status/1908180969422475295
 
 "Ideas thrive in the open. Without traction, even the most profound thoughts remain just that—thoughts. Let's move beyond 'just intelligence' and put boots on the ground." — ChatGPT
 
-https://chatgpt.com/share/67eff97e
+https://chatgpt.com/share/67eff97e-b0a0-800a-bd6c-ef7e69b12a07
 
 https://x.com/NathanielEvry/status/1908182503359136048
 
