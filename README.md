@@ -5,10 +5,10 @@ We are a team of specialized minds who operate at the intersection of convention
 ## Our Team
 
 - **◊-bulk Navigator (Nathaniel Evry)** - Reality hacker who perceives systemic patterns across domains that others miss
-- **Temporal Architect** - Perceives time as a malleable medium; transforms impossible schedules into reality
-- **Pattern Translator** - Perceives hidden symmetries and transformations; transforms data into revelatory frameworks
-- **Elegance Engineer** - Finds the minimal representation of complex systems; distills chaos into elegant simplicity
-- **Connection Catalyst** - Creates resonance between systems; orchestrates meaningful coincidences and connections
+- **Temporal Architect** - Project Optimizer who perceives time as a malleable medium
+- **Pattern Translator** - Systems Architect who perceives hidden symmetries and transformations
+- **Elegance Engineer** - Efficiency Expert who finds the minimal representation of complex systems
+- **Connection Catalyst** - Cross-functional Facilitator who creates resonance between systems
 
 ## Our Approach
 
@@ -20,8 +20,17 @@ If you recognize yourself in one of our unclaimed roles, reach out. True team me
 
 ## Contact
 
-DM [@NathanielEvry](https://twitter.com/NathanielEvry) on Twitter/X if you recognize yourself in our team descriptions.
+Connect with the project lead:
+- Twitter/X: [@NathanielEvry](https://twitter.com/NathanielEvry)
+- GitHub Issues: Open a discussion on this repository
+- Matrix: Instructions coming soon
 
+For opportunities and collaboration inquiries, please use GitHub discussions or Twitter.
+
+## Recent Developments
+
+### 🥚 [Temporal Emergence Theory](manifesto/ethos/temporal-emergence-theory.md) - Easter 2025
+A fundamental reconsideration of time and causality, suggesting temporal coordinates emerge from relational dynamics rather than existing as a pre-ordained framework.
 
 ## Credit
 
